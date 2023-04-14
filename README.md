@@ -1,5 +1,9 @@
-# backdropchallenge
-This is my submission for the BackDrop Challenge
+# BackDropChallenge
+To setup
+`npm install`
+`node index`
+To tes
+`npm test`
 
 # Assumptions
 1. Database contains some User Data already.
