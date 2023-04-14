@@ -2,7 +2,7 @@
 To setup
 `npm install`
 `node index`
-To tes
+To test
 `npm test`
 
 # Assumptions
