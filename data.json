@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "user_account_name": "Omolere Enoch Olumid",
+    "user_account_number": "0053067002",
+    "user_bank_code": "050",
+    "is_verified": false
+  },
+  {
+    "id": 2,
+    "user_account_name": null,
+    "user_account_number": "0034916579",
+    "user_bank_code": "044",
+    "is_verified": false
+  },
+  {
+    "id": 3,
+    "user_account_name": null,
+    "user_account_number": "1495547690",
+    "user_bank_code": "044",
+    "is_verified": false
+  },
+  {
+    "id": 4,
+    "user_account_name": "Omolere Enoch Olumid",
+    "user_account_number": "3103895069",
+    "user_bank_code": "011",
+    "is_verified": false
+  },
+  {
+    "id": 5,
+    "user_account_name": "Catlaina Mariette",
+    "user_account_number": 684767,
+    "user_bank_code": "Catlaina",
+    "is_verified": false
+  },
+  {
+    "id": 6,
+    "user_account_name": "Ernesta Gabey",
+    "user_account_number": 648021,
+    "user_bank_code": "301",
+    "is_verified": false
+  },
+  {
+    "id": 7,
+    "user_account_name": null,
+    "user_account_number": 958454,
+    "user_bank_code": "044",
+    "is_verified": false
+  },
+  {
+    "id": 8,
+    "user_account_name": "Florenza Cary",
+    "user_account_number": 628586,
+    "user_bank_code": "033",
+    "is_verified": false
+  },
+  {
+    "id": 9,
+    "user_account_name": "Wilden Lawlor",
+    "user_account_number": 714138,
+    "user_bank_code": "215",
+    "is_verified": false
+  },
+  {
+    "id": 10,
+    "user_account_name": "Rahman Mariam Adesola",
+    "user_account_number": "0201044914",
+    "user_bank_code": "058",
+    "is_verified": true
+  }
+]
